@@ -1,4 +1,4 @@
-# CS170-Final-Project-Transportation-Problem
+# CS170 Final Project: Bus Transportation Problem
 
 # Problem 
 Design an approximation algorithm for a maximally connected K-clusters problem with several parameter constraints.
