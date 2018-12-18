@@ -11,4 +11,4 @@ To run files:
 
          python3 output_comparer.py alg_1_and_2_outputs alg_3_outputs
     
-    Output will go to folder outputs_combined.
+   Output will go to folder "outputs_combined".
