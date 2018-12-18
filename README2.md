@@ -6,9 +6,7 @@ To run files:
 2. Run
 
          python3 algorithm3.py
-  Outputs will be in folder
-  
-    lg_3_outputs
+  Outputs will be in folder "lg_3_outputs"
 3. Compare the outputs using output_comparer.py. Run
 
          python3 output_comparer.py alg_1_and_2_outputs alg_3_outputs
